@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "facturas-gui"
+	},
+	{
+		"path": "facturas"
+	}
+],
+"settings": {
+	"java.configuration.updateBuildConfiguration": "automatic",
+	"sqltools.connections": [
+		{
+			"askForPassword": true,
+			"connectionTimeout": 30,
+			"database": "supermercado",
+			"dialect": "MySQL",
+			"name": "factuasql",
+			"port": 3306,
+			"server": "127.0.0.1",
+			"username": "root"
+		}
+	]
+}
+}
